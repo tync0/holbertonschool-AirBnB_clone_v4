@@ -154,5 +154,12 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 Second part of Airbnb: Joann Vuong
+
+## Authors
+* Project made by:
+- Tuncay Isgenderli <tyncmn@gmail.com>
+- Gulnar Rahimli <glnrrahimli@gmail.com>
+
+
 ## License
 Public Domain. No copy write protection. 
